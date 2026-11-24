@@ -1,143 +1,61 @@
-# Simp Client
+# Tempest
 
-**AS OF APRIL 14TH, 2026 I (lumie AKA the owner of Simp) WILL NOT BE COMMITING TOWARDS THIS CLIENT'S REPO ANYMORE!**
+Tempest is a Minecraft 1.8.9 client built on MCP with OptiFine, made for PvP servers such as Hypixel and for anticheat testing. It has about 120 modules, seven click GUIs, a theme engine, a replay recorder and a lot of HUD customisation.
 
-I cannot compete with other clients to make the "best" free bypasses anymore. Even when Simp had very good bypasses, the devs and myself
-still got harassed because of how "bad" Simp is. Simp all in all is a great client I would've loved to continue it, but
-I nor the client cannot get ANY support from the community besides harassment no matter how hard I tried when this client is indeed community driven.
-All features included in the Simp 1.3 update are final. If someone wants to continue the legacy of Simp Client, go right ahead, just
-provide proper crediting towards us or I will file a DMCA takedown.
-
-Sincerely, lumie/shxzu.
-
-[![Download](https://img.shields.io/github/v/release/x0lumie/Simp?style=for-the-badge)](https://github.com/x0lumie/Simp/releases)
-[![License](https://img.shields.io/github/license/x0lumie/Simp?style=for-the-badge)](LICENSE)
-[![Build](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)](https://github.com/x0lumie/Simp)
-
-**Simp Client** is a free, open-source Minecraft client built for any Anti-Cheat but mainly focuses on Polar, Grim, Watchdog, and Verus.
-<img width="800" src="https://raw.githubusercontent.com/x0lumie/Simp/recode/image.png">
-
----
+> Tempest is for learning, anticheat research and private or test servers. Using it on servers that forbid modified clients can get you banned. You use it at your own risk.
 
 ## Features
 
-| Category                | Details                                                                 |
-|------------------------|-------------------------------------------------------------------------|
-| Anti-Cheat Bypass      | Bypasses Polar, Watchdog, Verus, Grim and more!                         |
-| Interface              | Minimal, and clean UI with easy customization!                          |
-| Open Source            | This means no bigrat.monster!                                           |
+- **Combat:** Aura with many auto-block modes, Velocity, Criticals, Back Track, Lag Range, Tick Base, Target Strafe, Auto Pot, Auto Head and more.
+- **Movement:** Speed, Flight, Phase, Long Jump, No Slow, Spider and Step, with modes for Watchdog, Grim, NCP and Vulcan.
+- **Player:** Scaffold with several rotation styles, Clutch, Stealer with Chest Aura, Manager, Auto Armor, Bed Nuker and Notebot.
+- **Visuals:** Array List (with patterns and Edge Ember glow), Target HUD, watermarks, tab GUIs, ESP, Glow ESP, Name Tags, Tracers, Item Physics, Cosmetics, block-hit animations and Ambience.
+- **Click GUIs:** Tempest, Exhibition, Bankroll, Astolfo, Storm, Tiles and Columns. Every one has a Themes page with presets and Array List patterns.
+- **Themes:** more than 100 colour presets with speed, wave length, saturation and direction controls, plus a Liquid Glass look.
+- **Replays:** record games, watch them back, set up camera paths and render videos (ffmpeg or PNG frames).
+- **Accounts:** Microsoft login through the device code flow. Saved logins are encrypted with Windows DPAPI and stay on your PC.
+- **Version support:** connect to newer servers through ViaMCP.
 
----
+## Building
 
-## Download
+You need **JDK 22** and **Maven**.
 
-Get the latest release at [Releases Page](https://github.com/x0lumie/Simp/releases).
-
-... or get a unstable nightly build at the [Actions Page](https://github.com/x0lumie/Simp/actions)
-
----
-
-## Frequently Asked Questions (FAQ)
-
-### 1. How do I install the client?
-Watch this [video](https://youtu.be/If5PMPH4jLk)
-
-### 2. What launchers are supported?
-HMCL is the only officially supported launcher. No help will be provided for any other launcher. (because I can't be bothered!)
-As of release ``Simp 1.3``
-> HMCL: ✅
-> 
-> Vanilla Launcher: ✅
-> 
-> Prism Launcher: ✅ (with proper fixing)
-> 
-> MultiMC: ❓
-> 
-> Pojav/Mojo Launcher: ✅ (use beta mojo launcher and set rendering to vulkan)
-
-### 3. I have this error!
-No one is obliged to help you. Make an issue or join the [Discord](https://discord.gg/RV6UN7b8T8).
-
-### 4. Known bugs/errors:
-- No sound or crash on certain systems relating to SoundSystem.
-- Legit and Predictive auto block modes kicking in servers due to sending too many packets.
-- Latest HMCL not launching the client until skipping Java compatibility checks.
-
-**THESS BUGS WILL BE FIXED IN FUTURE VERSIONS! WE CANNOT FIX THEM NOW DUE TO UNKNOWN CAUSES OR LOSS OF TIME/FOCUS!**
-
-(if any more common bugs/errors are reported they will be added)
-
-### 5. I've done all the steps but it keeps crashing!
-Make sure you're using **Java 22** if you're using a launcher like Prism or latest HMCL make sure you skip Java compatibility checks.
-
-### 6. How do I get help with my error?
-Post your crash log in the [Discord](https://discord.gg/RV6UN7b8T8) help channel. If you get ignored its because your issue is that you didn't follow steps correctly or that it can be found in the FAQ.
-
-**This FAQ is incomplete if your problem is not on here use the [Discord](https://discord.gg/RV6UN7b8T8).**
-
-## How to Build
-
-**Requirements**
-
-- Java JDK 22 or higher
-- IDE of your preference (IntelliJ IDEA recommended)
-- Git
-
-**Steps**
-
-```bash
-git clone https://github.com/x0lumie/Simp.git
-cd Simp
+```
+git clone https://github.com/<your-account>/Tempest-Client.git
+cd Tempest-Client
+mvn clean package
 ```
 
-1. Open the project in your IDE.
-2. Make a run directory
-3. Create a new Run Configuration:
-   - Type: Application
-   - Main Class: (refer to screenshot below)
-   - Use classpath of module: `Simp.main`
-4. Run the client.
+The finished jar is `target/Tempest.jar`.
 
-**Example Run Configuration**
+## Running from an IDE
 
-![run_config](https://github.com/x0lumie/Simp/blob/main/assets/setup.png)
+1. Open the project in IntelliJ IDEA as a Maven project, using JDK 22.
+2. Make a run configuration with main class `Start`.
+3. Set the working directory to a folder of your choice. The game keeps its saves, options and the `Tempest` data folder there.
+4. `Start` reads the 1.8.9 assets from `%APPDATA%\.minecraft\assets`, so launch Minecraft 1.8.9 once from the official launcher first.
 
----
+## Default controls
 
-## Contributing
+- **Right Shift** opens the click GUI. You can change the key in Client Settings.
+- Commands start with `.` in chat, for example `.bind`, `.config` and `.h` to hide a module from the Array List.
 
-please do this im lazy -puhfy
+## Data folder
 
-| Step | Action |
-|------|--------|
-| 1    | Fork the repository |
-| 2    | Create a new branch: `git checkout -b feature/my-feature` |
-| 3    | Make your changes |
-| 4    | Commit: `git commit -m "Add my feature"` |
-| 5    | Push: `git push origin feature/my-feature` |
-| 6    | Open a pull request |
+Tempest keeps its own files in `Tempest/` inside the game folder: configs, binds, friends, replays, songs, GIFs and your encrypted accounts. Nothing in it is uploaded anywhere.
 
----
+## Credits
 
-## Contact
+Tempest started from the [Simp](https://github.com/x0lumie/Simp) client. It also uses or adapts code and assets from these projects, which keep their own licences:
 
-<p align="center">
-  <a href="https://discord.gg/YjU9Za5WVv">
-    <img src="https://img.shields.io/discord/1393759278833078413?color=5865F2&label=Join%20Discord&logo=discord&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+- **Minecraft libraries:** OptiFine, ViaMCP / ViaLoadingBase and ViaVersion.
+- **Other clients:** ideas and code adapted from Tenacity, Exhibition, OpenAstolfo, Sigma, Moon, Radium, Rise, Yuri, OpenMyau, OpenJade, Flux, Opal, Virtue, Pulsive, Novoline and Exire.
+- **[ReplayMod](https://github.com/ReplayModding/ReplayMod) (GPL):** the replay recorder and viewer.
+- **[WaveyCapes](https://github.com/tr7zw/WaveyCapes):** cape physics, used under the tr7zw Protective License (non-commercial).
+- **Animation:** GeckoLib easing functions.
+- **Fonts:** Lato (SIL Open Font License), Manrope and others.
+- **3D models:** the KayKit character models (CC0).
 
-Need help, want to contribute, or just say hi? Join our Discord community or open a GitHub issue.
+## Licence
 
----
-
-## License
-
-Licensed under the [MIT License](LICENSE).
-
----
-
-![Last Commit](https://img.shields.io/github/last-commit/x0lumie/Simp)
-![Contributors](https://img.shields.io/github/contributors/x0lumie/Simp)
-
-![Alt](https://repobeats.axiom.co/api/embed/b2ed272e1429e6f0f6fe07b3047e737f32073590.svg "Repobeats analytics image")
+See [LICENSE](LICENSE). Parts adapted from other projects stay under their original licences, as listed in Credits.

@@ -2,9 +2,9 @@ name: Java CI with Maven
 
 on:
   push:
-    branches: [ "recode" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "recode" ]
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -21,17 +21,8 @@ jobs:
           cache: maven
       - name: Build with Maven
         run: mvn -B clean package --file pom.xml
-      - name: Create distribution zip
-        run: |
-          # Create staging directory
-          mkdir -p staging
-          # Copy both files to staging
-          cp target/Simp.jar staging/
-          cp Simp.json staging/
-          # Create zip from staging directory contents
-          cd staging && zip -r ../Simp.zip .
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: Simp
-          path: Simp.zip
+          name: Tempest
+          path: target/Tempest.jar
