@@ -1,0 +1,100 @@
+{
+ "bjiMSG11": {
+  "ops": [
+   {
+    "meter": 0.02
+   }
+  ]
+ },
+ "bjiMSG12": {
+  "ops": [
+   {
+    "meter": 0.02
+   }
+  ],
+  "oneOf": true
+ },
+ "bjtMSG1": {
+  "ops": [
+   {
+    "meter": 0.04
+   }
+  ]
+ },
+ "doggystartMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_TOUCH",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggystartMSG2": {
+  "ops": [
+   {
+    "sound": "MISC_TOUCH",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggystartMSG4": {
+  "ops": [
+   {
+    "sound": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 1.5
+   }
+  ]
+ },
+ "doggystartMSG5": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.33
+   }
+  ]
+ },
+ "doggyslowMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.33
+   },
+   {
+    "meter": 0.02
+   }
+  ],
+  "oneOf": true
+ },
+ "doggyfastMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75
+   },
+   {
+    "meter": 0.04
+   }
+  ],
+  "oneOf": true
+ },
+ "doggycumMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_CUMINFLATION",
+    "index": 0,
+    "volume": 4.0
+   },
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 2.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,306 @@
+{
+ "stripMSG1": {
+  "ops": [
+   {
+    "say": "Hihi~"
+   },
+   {
+    "sound": "GIRLS_BIA_GIGGLE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "talk_hornyMSG1": {
+  "ops": [
+   {
+    "say": "Heyaaa~"
+   },
+   {
+    "sound": "GIRLS_BIA_HEY",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "talk_hornyMSG2": {
+  "ops": [
+   {
+    "say": "I am Hornyyyyy~"
+   },
+   {
+    "sound": "GIRLS_BIA_GIGGLE",
+    "index": 2,
+    "volume": 1.0
+   }
+  ]
+ },
+ "talk_hornyMSG3": {
+  "ops": [
+   {
+    "say": "So..."
+   },
+   {
+    "sound": "GIRLS_BIA_BREATH",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "talk_hornyMSG4": {
+  "ops": [
+   {
+    "say": "Are we gonna have some fun?~"
+   },
+   {
+    "sound": "GIRLS_BIA_HUH",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "talk_responseMSG1": {
+  "ops": [
+   {
+    "say": "Huh?!..."
+   },
+   {
+    "sound": "GIRLS_BIA_HUH",
+    "index": 2,
+    "volume": 1.0
+   }
+  ]
+ },
+ "talk_responseMSG2": {
+  "ops": [
+   {
+    "say": "I... uhm..."
+   },
+   {
+    "sound": "GIRLS_BIA_BREATH",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "talk_responseMSG3": {
+  "ops": [
+   {
+    "say": "yes~"
+   },
+   {
+    "sound": "GIRLS_BIA_GIGGLE",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "anal_prepareMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_PLOB",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "anal_prepareMSG2": {
+  "ops": [
+   {
+    "sound": "MISC_BEDRUSTLE",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "anal_startMSG1": {
+  "ops": [
+   {
+    "sound": "GIRLS_BIA_MMM",
+    "index": 3,
+    "volume": 1.0
+   },
+   {
+    "sound": "MISC_POUNDING",
+    "index": 34,
+    "volume": 1.0
+   }
+  ]
+ },
+ "anal_fastMSG1": {
+  "ops": [
+   {
+    "meter": 0.02
+   }
+  ]
+ },
+ "anal_slowMSG1": {
+  "ops": [
+   {
+    "meter": 0.02
+   },
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.5
+   },
+   {
+    "sound": "GIRLS_BIA_AHH",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "anal_startMSG2": {
+  "ops": [
+   {
+    "meter": 0.02
+   },
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.5
+   },
+   {
+    "sound": "GIRLS_BIA_AHH",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "anal_cumMSG2": {
+  "ops": [
+   {
+    "sound": "GIRLS_BIA_AHH",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "headpatMSG1": {
+  "ops": [
+   {
+    "say": "Ooh headpats!"
+   },
+   {
+    "sound": "GIRLS_BIA_BREATH",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "headpatMSG2": {
+  "ops": [
+   {
+    "say": "Hmmm.... :D"
+   },
+   {
+    "sound": "GIRLS_BIA_MMM",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "headpatMSG3": {
+  "ops": [
+   {
+    "say": "huh...?"
+   },
+   {
+    "sound": "GIRLS_BIA_HUH",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "headpatMSG4": {
+  "ops": [
+   {
+    "say": "Tanku hehe"
+   },
+   {
+    "sound": "GIRLS_BIA_GIGGLE",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "sitdownMSG1": {
+  "ops": [
+   {
+    "say": "come here big boy~"
+   },
+   {
+    "sound": "GIRLS_BIA_BREATH",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "slide": {
+  "ops": [
+   {
+    "sound": "MISC_SLIDE",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.005
+   }
+  ]
+ },
+ "pound": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggyMoan": {
+  "ops": [
+   {
+    "sound": "GIRLS_BIA_AHH",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_BIA_MMM",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.04
+   }
+  ],
+  "oneOf": true
+ },
+ "cum": {
+  "ops": [
+   {
+    "sound": "MISC_INSERTS",
+    "index": -1,
+    "volume": 6.0
+   }
+  ]
+ },
+ "orgasm1": {
+  "ops": [
+   {
+    "sound": "GIRLS_BIA_MMM",
+    "index": 6,
+    "volume": 1.0
+   }
+  ]
+ },
+ "orgasm2": {
+  "ops": [
+   {
+    "sound": "GIRLS_BIA_MMM",
+    "index": 7,
+    "volume": 1.0
+   }
+  ]
+ }
+}

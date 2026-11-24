@@ -1,0 +1,233 @@
+{
+ "paymentMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "plob": {
+  "ops": [
+   {
+    "sound": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "lipsound": {
+  "ops": [
+   {
+    "sound": "GIRLS_ALLIE_LIPSOUND",
+    "index": -1,
+    "volume": 1.5
+   },
+   {
+    "sound": "GIRLS_JENNY_LIPSOUND",
+    "index": -1,
+    "volume": 1.5
+   },
+   {
+    "meter": 0.02
+   }
+  ],
+  "oneOf": true
+ },
+ "touch": {
+  "ops": [
+   {
+    "sound": "MISC_TOUCH",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "cumLoud": {
+  "ops": [
+   {
+    "sound": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 3.0
+   }
+  ]
+ },
+ "cumQuiet": {
+  "ops": [
+   {
+    "sound": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 3.0
+   }
+  ]
+ },
+ "pounding": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "analHard": {
+  "ops": [
+   {
+    "meter": 0.04
+   }
+  ]
+ },
+ "analSoft": {
+  "ops": [
+   {
+    "meter": 0.02
+   }
+  ]
+ },
+ "cum": {
+  "ops": [
+   {
+    "sound": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 3.0
+   }
+  ]
+ },
+ "giggle": {
+  "ops": [
+   {
+    "sound": "GIRLS_KOBOLD_GIGGLE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "moan": {
+  "ops": [
+   {
+    "sound": "GIRLS_KOBOLD_MOAN",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "moanMating": {
+  "ops": [
+   {
+    "sound": "GIRLS_KOBOLD_MOAN",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "analHardMSG1": {
+  "ops": [
+   {
+    "sound": "GIRLS_KOBOLD_MOAN",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "orgasm": {
+  "ops": [
+   {
+    "sound": "GIRLS_KOBOLD_ORGASM",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "breath": {
+  "ops": [
+   {
+    "sound": "GIRLS_KOBOLD_LIGHTBREATHING",
+    "index": -1,
+    "volume": 0.5
+   }
+  ]
+ },
+ "haa": {
+  "ops": [
+   {
+    "sound": "GIRLS_KOBOLD_HAA",
+    "index": -1,
+    "volume": 0.7
+   }
+  ]
+ },
+ "interested": {
+  "ops": [
+   {
+    "sound": "GIRLS_KOBOLD_INTERESTED",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "yep": {
+  "ops": [
+   {
+    "sound": "GIRLS_KOBOLD_YEP",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjmoan": {
+  "ops": [
+   {
+    "sound": "GIRLS_KOBOLD_BJMOAN",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "blowjobStartbreath": {
+  "ops": [
+   {
+    "sound": "GIRLS_KOBOLD_LIGHTBREATHING",
+    "index": -1,
+    "volume": 1.0
+   }
+  ],
+  "oneOf": true
+ },
+ "mating_press_softReady": {
+  "ops": [
+   {
+    "meter": 0.04
+   }
+  ]
+ },
+ "mating_press_hardReady": {
+  "ops": [
+   {
+    "meter": 0.04
+   }
+  ]
+ },
+ "cumMsg": {
+  "ops": [
+   {
+    "say": "I.. hope I am satisfying you sir"
+   },
+   {
+    "sound": "GIRLS_KOBOLD_SAD",
+    "index": -1,
+    "volume": 1.0
+   }
+  ],
+  "oneOf": true
+ },
+ "renderEgg": {
+  "ops": [
+   {
+    "sound": "MISC_PLOB",
+    "index": -1,
+    "volume": 0.5
+   }
+  ]
+ }
+}

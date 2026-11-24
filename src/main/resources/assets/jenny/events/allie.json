@@ -1,0 +1,356 @@
+{
+ "summonMSG1": {
+  "ops": [
+   {
+    "say": "HIIYAAYA!"
+   },
+   {
+    "sound": "GIRLS_ALLIE_SCAWY",
+    "index": 0,
+    "volume": 0.5
+   }
+  ]
+ },
+ "summonMSG2": {
+  "ops": [
+   {
+    "say": "Congratulations mortal~"
+   },
+   {
+    "sound": "GIRLS_ALLIE_GIGGLE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ],
+  "oneOf": true
+ },
+ "summonMSG3": {
+  "ops": [
+   {
+    "say": "By finding and rubbing my lamp..."
+   }
+  ]
+ },
+ "summonMSG4": {
+  "ops": [
+   {
+    "say": "you got yourself..."
+   },
+   {
+    "sound": "GIRLS_ALLIE_LIGHTBREATHING",
+    "index": 2,
+    "volume": 1.0
+   }
+  ]
+ },
+ "summonMSG5": {
+  "ops": [
+   {
+    "say": "3 wishes!"
+   },
+   {
+    "sound": "GIRLS_ALLIE_HMPH",
+    "index": 4,
+    "volume": 1.0
+   }
+  ]
+ },
+ "summonMSG6": {
+  "ops": [
+   {
+    "say": "... get the reference? :D"
+   },
+   {
+    "sound": "GIRLS_ALLIE_GIGGLE",
+    "index": 3,
+    "volume": 1.0
+   }
+  ]
+ },
+ "summonMSG7": {
+  "ops": [
+   {
+    "say": "So..!"
+   }
+  ]
+ },
+ "summonMSG8": {
+  "ops": [
+   {
+    "say": "tell me your first wish, mortal~"
+   },
+   {
+    "sound": "GIRLS_ALLIE_HUH",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "deepthroat_prepareMSG1": {
+  "ops": [
+   {
+    "say": "Hihihi"
+   },
+   {
+    "sound": "GIRLS_ALLIE_GIGGLE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "deepthroat_prepareMSG2": {
+  "ops": [
+   {
+    "say": "Boys..."
+   },
+   {
+    "sound": "GIRLS_ALLIE_SIGH",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "scream": {
+  "ops": [
+   {
+    "sound": "MISC_SCREAM",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "deepthroat_fastMSG1": {
+  "ops": [
+   {
+    "sound": "GIRLS_ALLIE_BJMOAN",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.04
+   }
+  ]
+ },
+ "deepthroat_slowMSG1": {
+  "ops": [
+   {
+    "sound": "GIRLS_ALLIE_LIPSOUND",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_ALLIE_BJMOAN",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.02
+   }
+  ],
+  "oneOf": true
+ },
+ "deepthroat_cumMSG1": {
+  "ops": [
+   {
+    "sound": "GIRLS_ALLIE_MOAN",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_ALLIE_LIPSOUND",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "MISC_CUMINFLATION",
+    "index": -1,
+    "volume": 1.5
+   }
+  ]
+ },
+ "summon_normalMSG1": {
+  "ops": [
+   {
+    "say": "sup mortal?"
+   },
+   {
+    "sound": "GIRLS_ALLIE_GIGGLE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ],
+  "oneOf": true
+ },
+ "summon_normalMSG2": {
+  "ops": [
+   {
+    "say": "you have..."
+   }
+  ]
+ },
+ "summon_normalMSG3": {
+  "ops": [
+   {
+    "say": "2 wishes left!"
+   },
+   {
+    "say": "one last wish"
+   },
+   {
+    "sound": "GIRLS_ALLIE_HMPH",
+    "index": 4,
+    "volume": 1.0
+   }
+  ]
+ },
+ "summon_normalMSG4": {
+  "ops": [
+   {
+    "say": "So..."
+   }
+  ]
+ },
+ "summon_normalMSG5": {
+  "ops": [
+   {
+    "say": "Tell me your wish, mortal!"
+   },
+   {
+    "sound": "GIRLS_ALLIE_HUH",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "deepthroat_normal_prepareMSG1": {
+  "ops": [
+   {
+    "say": "alright!"
+   },
+   {
+    "sound": "GIRLS_ALLIE_GIGGLE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "rich_MSG1": {
+  "ops": [
+   {
+    "say": "Here ya go! *thanos snaps*"
+   },
+   {
+    "sound": "MISC_PLOB",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "summon_sandMSG1": {
+  "ops": [
+   {
+    "say": "OOOH HECK NO!!1"
+   },
+   {
+    "sound": "GIRLS_ALLIE_SCAWY",
+    "index": 2,
+    "volume": 1.0
+   }
+  ]
+ },
+ "summon_sandMSG2": {
+  "ops": [
+   {
+    "player": "Allie has a phobia about sand. Summon her somewhere, where there is none of that"
+   }
+  ]
+ },
+ "giggle": {
+  "ops": [
+   {
+    "sound": "GIRLS_ALLIE_GIGGLE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "pounding": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "moan": {
+  "ops": [
+   {
+    "sound": "GIRLS_ALLIE_MOAN",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "mmm": {
+  "ops": [
+   {
+    "sound": "GIRLS_ALLIE_MMM",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "slide": {
+  "ops": [
+   {
+    "sound": "MISC_SLIDE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "slowMoan": {
+  "ops": [
+   {
+    "sound": "GIRLS_ALLIE_AHH",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.02
+   }
+  ],
+  "oneOf": true
+ },
+ "fastMoan": {
+  "ops": [
+   {
+    "meter": 0.04
+   },
+   {
+    "sound": "GIRLS_ALLIE_MOAN",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "cum": {
+  "ops": [
+   {
+    "sound": "MISC_INSERTS",
+    "index": -1,
+    "volume": 6.0
+   }
+  ]
+ },
+ "aftermoan": {
+  "ops": [
+   {
+    "sound": "GIRLS_ALLIE_AFTERSESSIONMOAN",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+# This folder is also the game's run folder, so it holds accounts, saves, logs,
+# screenshots and backups. Ignore everything at the top level and allow back
+# only the files that make up the project.
+/*
+!/src/
+!/ViaMCP/
+!/tools/
+!/.github/
+!/pom.xml
+!/Simp.json
+!/README.md
+!/LICENSE
+!/CODE_OF_CONDUCT.md
+!/.gitignore
+!/.gitattributes
+
+### Never commit, wherever they turn up ###
+__pycache__/
+*.pyc
+*.log
+*.jfr
+*.tar.gz
+*.zip
+accounts.dat
+alts.txt
+usercache.json
+servers.dat
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+.DS_Store
+target/
+build/
+out/

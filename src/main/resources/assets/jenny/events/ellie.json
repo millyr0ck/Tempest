@@ -1,0 +1,349 @@
+{
+ "hugMSG2": {
+  "ops": [
+   {
+    "say": "Hmm..."
+   },
+   {
+    "sound": "GIRLS_ELLIE_HMPH",
+    "index": 3,
+    "volume": 6.0
+   }
+  ]
+ },
+ "hugMSG3": {
+  "ops": [
+   {
+    "say": "Hey!"
+   },
+   {
+    "sound": "GIRLS_ELLIE_HUH",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "hugMSG4": {
+  "ops": [
+   {
+    "say": "Mommy is horny"
+   },
+   {
+    "sound": "GIRLS_ELLIE_MOMMYHORNY",
+    "index": -1,
+    "volume": 0.5
+   }
+  ]
+ },
+ "hugMSG5": {
+  "ops": [
+   {
+    "say": "so... what am I gonna do with you now, darling~ ?"
+   },
+   {
+    "sound": "GIRLS_ELLIE_HUH",
+    "index": 1,
+    "volume": 6.0
+   }
+  ]
+ },
+ "hugselectedMSG1": {
+  "ops": [
+   {
+    "say": "Mhm.. I know~"
+   },
+   {
+    "sound": "GIRLS_ELLIE_HMPH",
+    "index": 3,
+    "volume": 6.0
+   }
+  ]
+ },
+ "hugselectedMSG2": {
+  "ops": [
+   {
+    "say": "follow me, darling~"
+   },
+   {
+    "sound": "GIRLS_ELLIE_GIGGLE",
+    "index": 3,
+    "volume": 6.0
+   }
+  ]
+ },
+ "sitdownMSG1": {
+  "ops": [
+   {
+    "sound": "GIRLS_ELLIE_COMETOMOMMY",
+    "index": -1,
+    "volume": 0.5
+   },
+   {
+    "say": "Come to mommy~"
+   }
+  ]
+ },
+ "cowgirlStartMSG0": {
+  "ops": [
+   {
+    "sound": "GIRLS_ELLIE_GIGGLE",
+    "index": 4,
+    "volume": 6.0
+   }
+  ]
+ },
+ "cowgirlStartMSG1": {
+  "ops": [
+   {
+    "say": "Do you like what you see honey?~"
+   }
+  ]
+ },
+ "cowgirlStartMSG2": {
+  "ops": [
+   {
+    "sound": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0
+   },
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75
+   },
+   {
+    "meter": 0.02
+   }
+  ]
+ },
+ "cowgirlfastMSG1": {
+  "ops": [
+   {
+    "sound": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0
+   },
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75
+   },
+   {
+    "meter": 0.04
+   }
+  ]
+ },
+ "cowgirlfastdomMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75
+   },
+   {
+    "meter": 0.2
+   }
+  ]
+ },
+ "cowgirlcumMSG1": {
+  "ops": [
+   {
+    "sound": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0
+   },
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75
+   }
+  ]
+ },
+ "cowgirlcumMSG2": {
+  "ops": [
+   {
+    "sound": "GIRLS_ELLIE_MOAN",
+    "index": 5,
+    "volume": 3.0
+   },
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75
+   }
+  ]
+ },
+ "cowgirlcumMSG3": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75
+   }
+  ]
+ },
+ "cowgirlcumMSG5": {
+  "ops": [
+   {
+    "sound": "GIRLS_ELLIE_GOODBOY",
+    "index": -1,
+    "volume": 0.5
+   },
+   {
+    "say": "goooood.. ehh.. boy... hehe~"
+   }
+  ]
+ },
+ "missionary_cumMSG2": {
+  "ops": [
+   {
+    "sound": "GIRLS_ELLIE_GOODBOY",
+    "index": -1,
+    "volume": 0.5
+   },
+   {
+    "say": "goooood.. ehh.. boy... hehe~"
+   }
+  ]
+ },
+ "missionary_slowMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_ELLIE_MOAN",
+    "index": -1,
+    "volume": 6.0
+   },
+   {
+    "sound": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0
+   },
+   {
+    "meter": 0.02
+   }
+  ],
+  "oneOf": true
+ },
+ "missionary_fastMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0
+   },
+   {
+    "sound": "GIRLS_ELLIE_MOAN",
+    "index": -1,
+    "volume": 6.0
+   },
+   {
+    "meter": 0.05
+   }
+  ],
+  "oneOf": true
+ },
+ "bedRustle": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "MISC_BEDRUSTLE",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bedRustle1": {
+  "ops": [
+   {
+    "sound": "MISC_BEDRUSTLE",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "missionary_cumMSG1": {
+  "ops": [
+   {
+    "sound": "GIRLS_ELLIE_AHH",
+    "index": -1,
+    "volume": 6.0
+   }
+  ]
+ },
+ "carry_introMSG1": {
+  "ops": [
+   {
+    "say": "I'm hungry.."
+   },
+   {
+    "sound": "GIRLS_ELLIE_HMPH",
+    "index": -1,
+    "volume": 6.0
+   }
+  ]
+ },
+ "carry_introMSG2": {
+  "ops": [
+   {
+    "say": "heh~"
+   },
+   {
+    "sound": "GIRLS_ELLIE_GIGGLE",
+    "index": 3,
+    "volume": 6.0
+   }
+  ]
+ },
+ "lipsound": {
+  "ops": [
+   {
+    "sound": "GIRLS_ALLIE_LIPSOUND",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.02
+   }
+  ]
+ },
+ "cum": {
+  "ops": [
+   {
+    "sound": "MISC_INSERTS",
+    "index": -1,
+    "volume": 6.0
+   },
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "pound": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.04
+   }
+  ]
+ }
+}

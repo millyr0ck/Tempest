@@ -1,0 +1,563 @@
+{
+ "stripMSG1": {
+  "ops": [
+   {
+    "say": "Hihi~"
+   },
+   {
+    "sound": "GIRLS_JENNY_GIGGLE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "paymentMSG1": {
+  "ops": [
+   {
+    "say": "Huh?"
+   },
+   {
+    "sound": "GIRLS_JENNY_HUH",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "paymentMSG2": {
+  "ops": [
+   {
+    "sound": "MISC_PLOB",
+    "index": 0,
+    "volume": 0.5
+   }
+  ]
+ },
+ "strip": {
+  "ops": [
+   {
+    "player": "show Bobs and vegana pls"
+   }
+  ]
+ },
+ "blowjob": {
+  "ops": [
+   {
+    "player": "Give me the sucky sucky and these are yours"
+   }
+  ]
+ },
+ "doggy": {
+  "ops": [
+   {
+    "player": "Give me the sex pls :)"
+   }
+  ]
+ },
+ "boobjob": {
+  "ops": [
+   {
+    "player": "gib booba OwO"
+   }
+  ]
+ },
+ "paymentMSG3": {
+  "ops": [
+   {
+    "say": "Hehe~"
+   },
+   {
+    "sound": "GIRLS_JENNY_GIGGLE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "paymentMSG4": {
+  "ops": [
+   {
+    "sound": "MISC_PLOB",
+    "index": 0,
+    "volume": 0.25
+   }
+  ]
+ },
+ "bjiMSG1": {
+  "ops": [
+   {
+    "say": "What are you..."
+   },
+   {
+    "sound": "GIRLS_JENNY_MMM",
+    "index": 8,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjiMSG2": {
+  "ops": [
+   {
+    "say": "eh... boys..."
+   },
+   {
+    "sound": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 8,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjiMSG3": {
+  "ops": [
+   {
+    "say": "OHOhh...!"
+   },
+   {
+    "sound": "GIRLS_JENNY_AFTERSESSIONMOAN",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjiMSG4": {
+  "ops": [
+   {
+    "sound": "MISC_BELLJINGLE",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjiMSG5": {
+  "ops": [
+   {
+    "say": "Was this really necessary?!"
+   },
+   {
+    "sound": "GIRLS_JENNY_HMPH",
+    "index": 1,
+    "volume": 0.5
+   }
+  ]
+ },
+ "bjiMSG6": {
+  "ops": [
+   {
+    "say": "Oh~"
+   },
+   {
+    "sound": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 8,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjiMSG7": {
+  "ops": [
+   {
+    "say": "You like it?~"
+   },
+   {
+    "sound": "GIRLS_JENNY_GIGGLE",
+    "index": 4,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjiMSG8": {
+  "ops": [
+   {
+    "player": "Yee"
+   },
+   {
+    "sound": "MISC_PLOB",
+    "index": 0,
+    "volume": 0.5
+   }
+  ]
+ },
+ "bjiMSG9": {
+  "ops": [
+   {
+    "say": "Hihihi~"
+   },
+   {
+    "sound": "GIRLS_JENNY_GIGGLE",
+    "index": 2,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjiMSG11": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_LIPSOUND",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.02
+   }
+  ]
+ },
+ "bjiMSG12": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_BJMOAN",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_JENNY_LIPSOUND",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.02
+   }
+  ],
+  "oneOf": true
+ },
+ "bjtMSG1": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_MMM",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_JENNY_LIPSOUND",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.04
+   }
+  ]
+ },
+ "bjcMSG1": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_BJMOAN",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjcMSG2": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_BJMOAN",
+    "index": 7,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjcMSG3": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_AFTERSESSIONMOAN",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjcMSG4": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjcMSG5": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjcMSG6": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 2,
+    "volume": 1.0
+   }
+  ]
+ },
+ "bjcMSG7": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 3,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggyGoOnBedMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_BEDRUSTLE",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggyGoOnBedMSG2": {
+  "ops": [
+   {
+    "say": "what are you waiting for?~"
+   },
+   {
+    "sound": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": 9,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggyGoOnBedMSG3": {
+  "ops": [
+   {
+    "say": "this ass ain't gonna fuck itself..."
+   },
+   {
+    "sound": "GIRLS_JENNY_GIGGLE",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggyGoOnBedMSG4": {
+  "ops": [
+   {
+    "sound": "MISC_SLAP",
+    "index": 0,
+    "volume": 0.75
+   }
+  ]
+ },
+ "doggystartMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_TOUCH",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggystartMSG2": {
+  "ops": [
+   {
+    "sound": "MISC_TOUCH",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggystartMSG3": {
+  "ops": [
+   {
+    "sound": "MISC_BEDRUSTLE",
+    "index": 1,
+    "volume": 0.5
+   }
+  ]
+ },
+ "doggystartMSG4": {
+  "ops": [
+   {
+    "sound": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_JENNY_MMM",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggystartMSG5": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.33
+   },
+   {
+    "sound": "GIRLS_JENNY_MOAN",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggyslowMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.33
+   },
+   {
+    "sound": "GIRLS_JENNY_MMM",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_JENNY_MOAN",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.00666
+   }
+  ],
+  "oneOf": true
+ },
+ "doggyslowMSG2": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_LIGHTBREATHING",
+    "index": -1,
+    "volume": 0.5
+   }
+  ]
+ },
+ "doggyfastMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 0.75
+   },
+   {
+    "meter": 0.02
+   },
+   {
+    "sound": "GIRLS_JENNY_MOAN",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_JENNY_AHH",
+    "index": -1,
+    "volume": 1.0
+   }
+  ],
+  "oneOf": true
+ },
+ "doggycumMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_CUMINFLATION",
+    "index": 0,
+    "volume": 2.0
+   },
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 2.0
+   },
+   {
+    "sound": "GIRLS_JENNY_MOAN",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggycumMSG2": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": 4,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggycumMSG3": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": 5,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggycumMSG4": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": 6,
+    "volume": 1.0
+   }
+  ]
+ },
+ "doggycumMSG5": {
+  "ops": [
+   {
+    "sound": "GIRLS_JENNY_HEAVYBREATHING",
+    "index": 7,
+    "volume": 1.0
+   }
+  ]
+ },
+ "paizuriFastMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_JENNY_MMM",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_JENNY_AHH",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.04
+   }
+  ],
+  "oneOf": true
+ },
+ "paizuriSlowMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.02
+   }
+  ]
+ },
+ "paizuriStartMSG1": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.02
+   }
+  ]
+ }
+}

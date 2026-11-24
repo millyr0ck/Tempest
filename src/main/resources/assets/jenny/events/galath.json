@@ -1,0 +1,256 @@
+{
+ "goodTiming": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_DIALOG",
+    "index": 4,
+    "volume": 1.0
+   },
+   {
+    "say": "Good timing boy~"
+   }
+  ]
+ },
+ "huh": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_HUH",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "giggle": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_GIGGLE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "dialog1": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_DIALOG",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "moan": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_MOAN",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "breath": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_BREATHING",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "dialog5": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_DIALOG",
+    "index": 5,
+    "volume": 1.0
+   }
+  ]
+ },
+ "switchmoan": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_BREATHING",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_GALATH_MOAN",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "GIRLS_GALATH_AHH",
+    "index": -1,
+    "volume": 1.0
+   }
+  ],
+  "oneOf": true
+ },
+ "lightcharge": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_LIGHTCHARGE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "strongcharge": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_STRONGCHARGE",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "hmph": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_HMPH",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "cum": {
+  "ops": [
+   {
+    "sound": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 2.0
+   }
+  ]
+ },
+ "giggle0": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_GIGGLE",
+    "index": 0,
+    "volume": 1.0
+   }
+  ]
+ },
+ "orgasm": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_ORGASM",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "pound": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "flap": {
+  "ops": [
+   {
+    "sound": "MISC_FLAP",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "poundRape": {
+  "ops": [
+   {
+    "sound": "MISC_POUNDING",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "meter": 0.03
+   }
+  ]
+ },
+ "addCum": {
+  "ops": [
+   {
+    "meter": 0.03
+   }
+  ]
+ },
+ "creampieGalath": {
+  "ops": [
+   {
+    "sound": "MISC_SMALLINSERTS",
+    "index": -1,
+    "volume": 3.0
+   }
+  ]
+ },
+ "flapControlled": {
+  "ops": [
+   {
+    "sound": "MISC_FLAP",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "clap": {
+  "ops": [
+   {
+    "sound": "MISC_CLAP",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "energysound": {
+  "ops": [
+   {
+    "sound": "MISC_BEEW",
+    "index": 1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "energy2": {
+  "ops": [
+   {
+    "sound": "MISC_BEEW",
+    "index": 2,
+    "volume": 1.0
+   }
+  ]
+ },
+ "tpSound": {
+  "ops": [
+   {
+    "sound": "MISC_WEOWEO",
+    "index": 2,
+    "volume": 1.0
+   }
+  ]
+ },
+ "lick": {
+  "ops": [
+   {
+    "sound": "GIRLS_ALLIE_LIPSOUND",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ },
+ "boostSound": {
+  "ops": [
+   {
+    "sound": "GIRLS_GALATH_LIGHTCHARGE",
+    "index": -1,
+    "volume": 1.0
+   },
+   {
+    "sound": "MISC_FLAP",
+    "index": -1,
+    "volume": 1.0
+   }
+  ]
+ }
+}
