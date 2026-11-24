@@ -49,7 +49,7 @@ Tempest keeps its own files in `Tempest/` inside the game folder: configs, binds
 Tempest started from the [Simp](https://github.com/x0lumie/Simp) client. It also uses or adapts code and assets from these projects, which keep their own licences:
 
 - **Minecraft libraries:** OptiFine, ViaMCP / ViaLoadingBase and ViaVersion.
-- **Other clients:** ideas and code adapted from many different clients
+- **Other clients:** ideas and code adapted from many different mods, Simp by unlegit was used for the base.
 - **[ReplayMod](https://github.com/ReplayModding/ReplayMod) (GPL):** the replay recorder and viewer.
 - **[WaveyCapes](https://github.com/tr7zw/WaveyCapes):** cape physics, used under the tr7zw Protective License (non-commercial).
 - **Animation:** GeckoLib easing functions.
