@@ -21,8 +21,8 @@ Tempest is a Minecraft 1.8.9 client built on MCP with OptiFine, made for PvP ser
 You need **JDK 22** and **Maven**.
 
 ```
-git clone https://github.com/<your-account>/Tempest-Client.git
-cd Tempest-Client
+git clone https://github.com/millyr0ck/Tempest.git
+cd Tempest
 mvn clean package
 ```
 
@@ -49,7 +49,7 @@ Tempest keeps its own files in `Tempest/` inside the game folder: configs, binds
 Tempest started from the [Simp](https://github.com/x0lumie/Simp) client. It also uses or adapts code and assets from these projects, which keep their own licences:
 
 - **Minecraft libraries:** OptiFine, ViaMCP / ViaLoadingBase and ViaVersion.
-- **Other clients:** ideas and code adapted from Tenacity, Exhibition, OpenAstolfo, Sigma, Moon, Radium, Rise, Yuri, OpenMyau, OpenJade, Flux, Opal, Virtue, Pulsive, Novoline and Exire.
+- **Other clients:** ideas and code adapted from many different clients
 - **[ReplayMod](https://github.com/ReplayModding/ReplayMod) (GPL):** the replay recorder and viewer.
 - **[WaveyCapes](https://github.com/tr7zw/WaveyCapes):** cape physics, used under the tr7zw Protective License (non-commercial).
 - **Animation:** GeckoLib easing functions.
